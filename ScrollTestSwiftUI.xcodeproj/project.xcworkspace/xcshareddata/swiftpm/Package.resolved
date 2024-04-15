@@ -1,0 +1,42 @@
+{
+  "originHash" : "f5b80eaf24ebdc38a24e47d52eba6cc193bad93f3e4aa687de7ee8cd89139516",
+  "pins" : [
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher",
+      "state" : {
+        "revision" : "5b92f029fab2cce44386d28588098b5be0824ef5",
+        "version" : "7.11.0"
+      }
+    },
+    {
+      "identity" : "longinus",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/KittenYang/Longinus",
+      "state" : {
+        "revision" : "20c1283b25047a333c1cb49b55b93380eab20d94",
+        "version" : "1.2.1"
+      }
+    },
+    {
+      "identity" : "sdwebimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImage.git",
+      "state" : {
+        "revision" : "f6afa0132961d593f07970d84e2d8b588c29ea04",
+        "version" : "5.19.1"
+      }
+    },
+    {
+      "identity" : "sdwebimageswiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImageSwiftUI.git",
+      "state" : {
+        "revision" : "22423b017b99ab8ac44e29e6372f571f782af6e4",
+        "version" : "3.0.2"
+      }
+    }
+  ],
+  "version" : 3
+}
